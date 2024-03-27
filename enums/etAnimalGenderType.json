@@ -1,0 +1,12 @@
+{
+    "description": "Enumeration for sex of animal using species-independet English names",
+  
+    "type": "string",
+  
+    "enum": [
+      "Female",
+      "FemaleNeuter",
+      "Male",
+      "MaleNeuter"
+    ]
+  }
