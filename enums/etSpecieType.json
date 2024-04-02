@@ -1,0 +1,20 @@
+{
+    "description": "Enumeration for species of animal. ",
+  
+    "type": "string",
+  
+    "enum": [
+        "Cattle",
+        "Camel",
+        "Sheep",
+        "Goat",
+        "Horse",
+        "Donkey",
+        "Mule",
+        "Cat",
+        "Dog",
+        "Pig",
+        "Chicken",
+        "Bee"
+    ]
+  }

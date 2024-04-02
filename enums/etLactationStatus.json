@@ -1,0 +1,15 @@
+{
+    "description": "Enumeration for different possible lactation status of an animal. Please refer to definition for each category for the exact duration of each phase.",
+
+    "type": "string",
+
+    "enum": [
+        "DryPeriod",
+        "Fresh",
+        "EarlyLactation",
+        "MidLactation",
+        "LateLactation",
+        "Lactating"
+
+    ]
+}

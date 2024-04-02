@@ -1,0 +1,15 @@
+{
+    "description": "Production Purposes of Domestic Animals in Ethiopia",
+
+    "type": "string",
+
+    "enum": [
+        "Meat",
+        "Milk",
+        "DraftPower",
+        "Wool",
+        "HideSkin",
+        "Dung",
+        "Other"
+    ]
+}
