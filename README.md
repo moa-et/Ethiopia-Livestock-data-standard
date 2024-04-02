@@ -1,2 +1,2 @@
-# Ethiopia-Livestock-data-standard
+# Ethiopia Livestock Data Standard
 Working
