@@ -1,0 +1,12 @@
+{
+    "description": "Reason for retagging/replacement of animal ear tags.",
+
+    "type": "string",
+
+    "enum": [
+        "Lost",
+        "Damaged",
+        "Theft",
+        "Others" 
+    ]
+}

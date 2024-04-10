@@ -1,0 +1,25 @@
+{
+    "description": "Arrival reason of an animal into a heard or location.",
+
+    "type": "string",
+
+    "enum": [
+        "Purchase",
+        "InternalTransfer",
+        "Imported",
+        "StudService",
+        "StudServiceReturn" ,
+        "Sale",
+        "Slaughter",
+        "Agistment",
+        "AgistmentReturn",
+        "Show",
+        "ShowReturn",
+        "Sale",
+        "SaleReturn",
+        "Slaughter",
+        "Other" 
+
+
+    ]
+}
