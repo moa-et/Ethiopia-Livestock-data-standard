@@ -1,0 +1,14 @@
+{
+    "description": "Enumeration values for disposal method.",
+
+    "type":"string",
+
+    "enum": [
+        "Landfill",
+        "Incineration",
+        "Rendering",
+        "Composting",
+        "ChemicalDigestion",
+        "Others"
+    ]
+}

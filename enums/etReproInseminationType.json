@@ -1,0 +1,11 @@
+{
+    "description":"Enum values for insemination method",
+
+    "type":"string",
+
+    "enum": [
+        "NaturalService",
+        "ArtificialInsemination",
+        "Implantation"
+    ]
+}

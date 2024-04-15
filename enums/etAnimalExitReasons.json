@@ -1,0 +1,12 @@
+{
+    "description": "Reasons for animals exiting or being deactivated from database",
+
+    "type": "string",
+
+    "enum": [
+        "Death",
+        "Theft",
+        "Other",
+        "Unknown"
+    ]
+}

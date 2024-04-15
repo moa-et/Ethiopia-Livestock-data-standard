@@ -1,0 +1,21 @@
+{
+    "description": "Enumeration values for departure of animals from location or herd",
+
+    "type": "string",
+
+    "enum": [
+        "Age",
+        "Health",
+        "Slaughter",
+        "Sale",
+        "Mastitis",
+        "Fertility",
+        "Nutrition",
+        "Parturition",
+        "Production",
+        "MilkingAbility",
+        "Behavior",
+        "Other",
+        "Unknown"
+    ]
+}

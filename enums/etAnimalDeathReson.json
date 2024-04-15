@@ -1,0 +1,18 @@
+{
+    "description":"Enumeration values for death reason.",
+
+    "type":"string",
+
+    "enum": [
+        "Disease",
+        "Accident",
+        "Slaughtered",
+        "Culled",
+        "Other",
+        "Unknown",
+        "Age",
+        "Drought",
+        "Poisoning"
+    ]
+    
+}

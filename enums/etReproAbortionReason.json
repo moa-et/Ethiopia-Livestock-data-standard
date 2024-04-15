@@ -1,0 +1,12 @@
+{
+    "description": "Enum value for abortion reason",
+
+    "type": "string",
+
+    "enum": [
+        "Infection",
+        "Mechanical",
+        "NonSpecific",
+        "Unknown"
+    ]
+}
