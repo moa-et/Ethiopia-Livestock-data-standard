@@ -1,0 +1,19 @@
+{ 
+    "description": "Enumeration for medicine adminstration route .",
+    
+    "type": "string",
+  
+    "enum": [
+      "Intravenous",
+      "Intramuscular",
+      "Subcutaneous",
+      "PerOs",
+      "IntramammaryInfusion",
+      "Intrauterine",
+      "EyeDroplet",
+      "Intranasal",
+      "Intraperitoneal",
+      "Topical",
+      "Others"
+    ]
+  }

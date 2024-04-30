@@ -1,0 +1,16 @@
+{ 
+    "description": "Enumeration for vaccine adminstration route .",
+    
+    "type": "string",
+  
+    "enum": [
+     
+      "Intradermal",
+      "Subcutaneous",
+      "PerOs",
+      "EyeDroplet",
+      "Intranasal",  
+      "Topical",
+      "Others"
+    ]
+  }

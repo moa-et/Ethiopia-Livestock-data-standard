@@ -1,0 +1,20 @@
+{ 
+    "description": "Enumeration for disese affected systems .",
+    
+    "type": "string",
+  
+    "enum": [
+      "CentralNervous",
+      "SensoryOrgans",
+      "Digestive",
+      "Respiratory",
+      "Cardiovascular",
+      "Locomotory",
+      "Urinary",
+      "Reproductive",
+      "Lymphoid",
+      "Integumentary",
+      "Muscular",
+      "Others"
+    ]
+  }

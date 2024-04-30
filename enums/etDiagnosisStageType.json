@@ -1,0 +1,13 @@
+{ 
+    "description": "Enumeration for clinical stage of disease diagnosis.",
+    
+    "type": "string",
+  
+    "enum": [
+      "Peracute",
+      "Acute",
+      "SubAcute",
+      "Chronic",
+      "Other"
+    ]
+  }
