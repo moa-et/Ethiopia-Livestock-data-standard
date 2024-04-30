@@ -1,0 +1,11 @@
+{
+  "description": "Enumeration for progeny birth sizes.",
+
+  "type": "string",
+
+  "enum": [
+    "Small",
+    "Medium",
+    "Large"
+  ]
+}

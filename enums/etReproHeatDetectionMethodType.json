@@ -1,0 +1,12 @@
+{
+  "description": "The Heat detection method used.",
+
+  "type": "string",
+
+  "enum": [
+    "Chemical",
+    "Visual",
+    "Pedometer",
+    "Other"
+  ]
+}

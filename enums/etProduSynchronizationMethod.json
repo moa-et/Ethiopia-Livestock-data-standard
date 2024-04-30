@@ -1,0 +1,12 @@
+{
+  "description": "The Synchronization Method used.",
+
+  "type": "string",
+
+  "enum": [
+    "PG",
+    "GnRH",
+    "Progestin",
+    "Combination"
+  ]
+}

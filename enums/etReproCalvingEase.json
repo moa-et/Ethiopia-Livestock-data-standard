@@ -1,0 +1,16 @@
+{
+    "description": "Enumeration values for calving ease.",
+
+    "type": "string",
+
+    "enum": [
+        "Normal",
+        "MinorAssistance",
+        "Dystocia",
+        "UterineProlapse",
+        "RetainedPlacenta",
+        "CaesareanSection",
+        "Others"
+
+    ]
+}

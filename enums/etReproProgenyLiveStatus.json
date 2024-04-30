@@ -1,0 +1,13 @@
+{
+    "description": "Enumeration for the progeny birth statuses that are born alive.",
+  
+    "type": "string",
+  
+    "enum": [
+      "MaleNormal",
+      "MaleDefect",
+      "FemaleNormal",
+      "FemaleDefect"
+      
+    ]
+  }

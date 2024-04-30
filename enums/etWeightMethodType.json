@@ -1,0 +1,14 @@
+{
+  "description": "Method by which the weight is observed.\r\n Includes WeighingBalance (loadbars), girth (measuring tape / estimation), walk-over weighing, \r\nprediction, imaging (camera/IR),  group average .",
+
+  "type": "string",
+
+  "enum": [
+    "WeighingBalance",
+    "Girth",
+    "WalkOver",
+    "Predicted",
+    "Imaged",
+    "GroupAverage"
+  ]
+}

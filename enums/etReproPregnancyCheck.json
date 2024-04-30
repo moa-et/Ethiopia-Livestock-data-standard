@@ -1,0 +1,14 @@
+{
+  "description": "The method of pregnancy check.",
+
+  "type": "string",
+
+  "enum": [
+    "Echography",
+    "RectalPalpation",
+    "Blood",
+    "Milk",
+    "Visual",
+    "Other"
+  ]
+}
