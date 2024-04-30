@@ -1,0 +1,10 @@
+{
+  "description": "The certainty of heat",
+
+  "type": "string",
+
+  "enum": [
+    "InHeat",
+    "Suspect"
+  ]
+}

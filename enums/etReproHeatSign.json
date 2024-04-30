@@ -1,0 +1,14 @@
+{
+  "description": "Signs indicating whether an animal is in heat",
+
+  "type": "string",
+
+  "enum": [
+    "Mucus",
+    "ClearMucus",
+    "InterestedInOtherAnimals",
+    "Bawling",
+    "Blood",
+    "StandsUnder"
+  ]
+}
