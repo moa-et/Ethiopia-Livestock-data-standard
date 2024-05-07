@@ -1,5 +1,5 @@
-|                                    Vaccine name                                    | Abbrev.    | Code        |         Animal  species         |
-|:----------------------------------------------------------------------------------:|------------|-------------|:-------------------------------:|
+| Vaccine name                                                                       | Abbrev.    | Code        | Animal  species                 |
+|------------------------------------------------------------------------------------|------------|-------------|---------------------------------|
 | Vaccines for bacterial diseases                                                    | Abbr.      | 05.01.01    | Species                         |
 | Anthrax vaccine                                                                    | LVaccAnt   | 05.01.01.01 | Cattle, sheep, goats, Camel     |
 | Blackleg Vaccine                                                                   | LVaccBL    | 05.01.01.02 | Cattle, sheep, goats, and camel |
