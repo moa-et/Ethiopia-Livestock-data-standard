@@ -1,0 +1,12 @@
+{
+    "description": "Age group for cattle",
+  
+    "type": "string",
+  
+    "enum": [
+      "Calf",
+      "Young",
+      "Adult" ,
+      "Old"
+    ]
+  }

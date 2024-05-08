@@ -1,0 +1,11 @@
+{
+    "description": "A livestock production system based on the Proportion of Land, Labor, and Capital Investment",
+  
+    "type": "string",
+  
+    "enum": [
+      "Intensive",
+      "Extensive",
+      "Semi-intensive" 
+    ]
+  }

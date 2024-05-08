@@ -1,0 +1,13 @@
+{
+    "description": "A livestock production system",
+  
+    "type": "string",
+  
+    "enum": [
+      "Urban",
+      "PerUrban",
+      "Mixed",
+      "Pastoral",
+      "AgroPastoral"
+    ]
+  }

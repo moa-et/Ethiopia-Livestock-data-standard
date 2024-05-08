@@ -1,0 +1,12 @@
+{
+    "description": "Age group for camel",
+  
+    "type": "string",
+  
+    "enum": [
+      "Immature",
+      "Young",
+      "Adult" ,
+      "Old"
+    ]
+  }

@@ -1,0 +1,12 @@
+{
+    "description": "Animal Grade",
+  
+    "type": "string",
+  
+    "enum": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ]
+  }

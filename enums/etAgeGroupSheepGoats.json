@@ -1,0 +1,11 @@
+{
+    "description": "Age group for sheep and goats",
+  
+    "type": "string",
+  
+    "enum": [
+        "Young",
+        "Adult",
+        "Old"
+    ]
+  }
