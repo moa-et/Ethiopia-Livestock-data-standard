@@ -1,0 +1,11 @@
+{
+    "description": "A livestock production system based on farm size",
+  
+    "type": "string",
+  
+    "enum": [
+      "Small",
+      "Medium",
+      "LargeScale" 
+    ]
+  }

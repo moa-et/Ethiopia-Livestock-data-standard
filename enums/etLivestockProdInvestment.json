@@ -6,6 +6,6 @@
     "enum": [
       "Intensive",
       "Extensive",
-      "Semi-intensive" 
+      "SemiIntensive" 
     ]
   }
